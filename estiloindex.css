@@ -1012,7 +1012,7 @@ color:#000;
     }
 
     .bodegonDosCelular {
-        background: #000 url(./recursos/bodegon2.jpg) no-repeat center top;
+        background: #000 url(./recursos/bodegon2Celular.png) no-repeat center top;
         width: 100%;
         height: 500px;
     }
@@ -1021,8 +1021,14 @@ color:#000;
         width: 0;
     }
 
+    #img-1{ 
+        background: #000 url(./recursos/bodegon1Celular.png) no-repeat center top;}
+
+        #img-3{ 
+            background: #000 url(./recursos/bodegon3Celular.png) no-repeat center top;}
+
     .bodegonCuatroCelular{ 
-        background: #000 url(./recursos/bodegon4.jpg) no-repeat center top;
+        background: #000 url(./recursos/bodegon4Celular.png) no-repeat center top;
         width: 100%;
         height:500px;
     }
